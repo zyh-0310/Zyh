@@ -1,0 +1,7 @@
+{
+  "name": "Mood Oasis - Emotional Well-being Assistant",
+  "description": "A healing emotional management application designed to help users track moods, perform self-regulation, and find inner peace through AI companionship and interactive exercises.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
